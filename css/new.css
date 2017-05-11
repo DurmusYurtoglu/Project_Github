@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+#thTable {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+#search{
+    margin-left: 17%;
+    margin-right: 18%;
+}
+body {
+    background-color: #eee;
+}
+
+*[role="form"] {
+    max-width: 530px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 0.3em;
+}
+
+*[role="form"] h2 {
+    margin-left: 5em;
+    margin-bottom: 1em;
+}
+
+.asd{float:right;}
